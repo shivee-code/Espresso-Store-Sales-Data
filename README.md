@@ -11,7 +11,6 @@ insights, optimise sales strategies, and improve customer satisfaction. You are 
 to use Excel's advanced features to perform data analysis and derive actionable insights.
 <br><br>
 <b>FINDINGS:</b>
-<br>
 1. Format the 'amount' column to display values as currency up to 2 decimal places
 and apply date formatting to the 'date' column to show dates in 'dd m, yy' format
 2. Arrange orders sorted by 'ship city' in Z to A order, and by 'amount' in descending
